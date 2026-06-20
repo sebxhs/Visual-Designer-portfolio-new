@@ -1,0 +1,21 @@
+{
+  "name": "visual-designer-portfolio-new",
+  "version": "1.0.0",
+  "description": "A static portfolio website for Sebastian Quiroz Malca Alva, a Visual Designer focused on brand identity, logo design, UI design, and web design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "jest": {
+    "testPathIgnorePatterns": [
+      "__tests__/helpers\\.js$"
+    ]
+  },
+  "devDependencies": {
+    "jest": "^30.4.2",
+    "jsdom": "^24.1.0"
+  }
+}
