@@ -544,6 +544,35 @@ p {
   gap: 1.25rem;
 }
 
+.wireframe-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.wireframe-card {
+  margin: 0;
+  padding: 0.75rem;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.55);
+}
+
+.wireframe-card img {
+  width: 100%;
+  border-radius: calc(var(--radius-md) - 6px);
+  border: 1px solid rgba(222, 213, 200, 0.8);
+  background: var(--bg);
+}
+
+.wireframe-card figcaption {
+  color: var(--muted);
+  font-size: 0.9rem;
+  font-weight: 800;
+  margin-top: 0.75rem;
+}
+
 .contact-links {
   display: grid;
   gap: 1rem;
@@ -631,7 +660,8 @@ p {
   .grid.two,
   .grid.three,
   .grid.four,
-  .skills {
+  .skills,
+  .wireframe-gallery {
     grid-template-columns: 1fr;
   }
 
