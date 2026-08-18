@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 980" role="img" aria-labelledby="title desc">
+  <title id="title">Learnhall wireframe 2</title>
+  <desc id="desc">A page wireframe with a rounded hero banner, a multi-column section, and sweeping divider lines.</desc>
+  <rect width="720" height="980" fill="#f4efe6"/>
+  <g stroke="#d9d0c3" stroke-width="1">
+    <path d="M0 54H720M0 108H720M0 162H720M0 216H720M0 270H720M0 324H720M0 378H720M0 432H720M0 486H720M0 540H720M0 594H720M0 648H720M0 702H720M0 756H720M0 810H720M0 864H720M0 918H720"/>
+    <path d="M72 0V980M646 0V980"/>
+  </g>
+  <g fill="none" stroke="#25221f" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="124" y="48" width="476" height="174" rx="26" stroke-width="2.5" opacity=".35"/>
+    <path d="M186 86h338M210 128h284" stroke-width="4" opacity=".62"/>
+    <rect x="316" y="164" width="92" height="34" rx="8" stroke-width="3"/>
+    <path d="M80 304h560" stroke-width="2.5"/>
+    <rect x="116" y="366" width="34" height="34" rx="6" stroke-width="3"/>
+    <path d="M124 374l18 18M142 374l-18 18" stroke-width="2.5"/>
+    <path d="M232 368h86M232 412h76M232 452h110M360 366h98M360 410h86M360 452h118M508 366h86M508 410h82M508 452h70" stroke-width="4" opacity=".65"/>
+    <path d="M80 548c160-14 320-10 560-58" stroke-width="3" opacity=".64"/>
+    <path d="M74 588c156 14 334 4 572-46" stroke-width="2.5" opacity=".55"/>
+    <path d="M90 722c150-40 352-60 532-92" stroke-width="3" opacity=".55"/>
+    <path d="M84 802h424M86 862h486" stroke-width="2.5" opacity=".5"/>
+  </g>
+</svg>

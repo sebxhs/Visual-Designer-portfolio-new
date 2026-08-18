@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 980" role="img" aria-labelledby="title desc">
+  <title id="title">Learnhall wireframe 3</title>
+  <desc id="desc">A wireframe with top navigation, a large image beside text, and lower image and copy blocks.</desc>
+  <rect width="720" height="980" fill="#f4efe6"/>
+  <g stroke="#d9d0c3" stroke-width="1">
+    <path d="M0 54H720M0 108H720M0 162H720M0 216H720M0 270H720M0 324H720M0 378H720M0 432H720M0 486H720M0 540H720M0 594H720M0 648H720M0 702H720M0 756H720M0 810H720M0 864H720M0 918H720"/>
+    <path d="M72 0V980M646 0V980"/>
+  </g>
+  <g fill="none" stroke="#25221f" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="98" y="28" width="36" height="28" rx="5" stroke-width="2.5"/>
+    <path d="M106 36l20 14M126 36l-20 14M434 42h28M500 42h30M566 42h26" stroke-width="3"/>
+    <rect x="118" y="156" width="220" height="236" rx="8" stroke-width="3"/>
+    <path d="M96 206c-32 8-30 178-4 206 24 24 104 12 194 12" stroke-width="3" opacity=".5"/>
+    <path d="M430 160h172M424 204h130M426 248h164M426 312h108M426 360h142" stroke-width="5" opacity=".68"/>
+    <path d="M100 478h468M100 526h420" stroke-width="2.5" opacity=".56"/>
+    <circle cx="120" cy="628" r="36" stroke-width="3"/>
+    <path d="M184 604h240M184 646h180M184 688h122" stroke-width="5" opacity=".68"/>
+    <rect x="392" y="584" width="204" height="204" rx="18" stroke-width="3"/>
+    <path d="M560 786c32 14 64 8 96 20" stroke-width="3" opacity=".5"/>
+    <path d="M102 756h204M102 810h252M102 868h482M100 918h390" stroke-width="3" opacity=".5"/>
+    <path d="M662 142c38 18 36 62 2 80M660 736c36 18 38 62 0 82" stroke-width="3" opacity=".35"/>
+  </g>
+</svg>
